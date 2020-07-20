@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/shaolinjezu/fullstack-go/api/auth"
+	"github.com/shaolinjehzu/fullstack-go/api/auth"
 	"github.com/shaolinjehzu/fullstack-go/api/responses"
 )
 
