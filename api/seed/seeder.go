@@ -9,13 +9,13 @@ import (
 
 var users = []models.User{
 	models.User{
-		Name: "Steven victor",
-		Email:    "steven@gmail.com",
+		Name: "Nikolay Maltsev",
+		Email:    "maltsev@kitnk.ru",
 		Password: "password",
 	},
 	models.User{
-		Name: "Martin Luther",
-		Email:    "luther@gmail.com",
+		Name: "Vasiliy Ivanov",
+		Email:    "ivanov@gmail.com",
 		Password: "password",
 	},
 }
@@ -23,7 +23,7 @@ var users = []models.User{
 var posts = []models.Post{
 	models.Post{
 		Title:   "Title 1",
-		Content: "Hello world 1",
+		Content: "Hello guys!",
 	},
 	models.Post{
 		Title:   "Title 2",
